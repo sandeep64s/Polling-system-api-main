@@ -2,7 +2,7 @@
 
 This is a backend api for creating questions and adding options to a specific question. Options can be voted. Questions, options can be deleted and questions can be viewed with all of their options.
 
-### Hosted link: [Polling System API](https://polling-system-api-main-fiui.onrender.com/)
+### Hosted link: https://polling-system-api-main-fiui.onrender.com/
 
 ## Polling system Features
 
